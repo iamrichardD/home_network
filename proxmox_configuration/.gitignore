@@ -1,0 +1,11 @@
+# Environment variables containing secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
